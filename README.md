@@ -1,8 +1,8 @@
-School Student Details:
+College Student Details:
 Description: This table stores information about students, including their personal details such as name, date of birth, address, contact information, and enrollment details.
 Example Fields: student_id, name, dob, address, phone_number, email, enrollment_date.
 
-School Bus Details:
+College Bus Details:
 Description: This table contains information about school buses, including their routes, schedules, and capacities. It helps manage transportation logistics for students.
 Example Fields: bus_id, bus_number, route, capacity, schedule, driver_name.
 
